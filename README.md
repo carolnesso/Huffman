@@ -4,7 +4,7 @@ Seminário: *Segment Tree*
 C/P: *FP com Heap vs. FP sem Heap*
 
 Exigencias:
-- Eclipse + CUnit
+- VsCODE +  CUnit
 - Ponteiro *void
 
 Email:
